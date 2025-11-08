@@ -63,12 +63,12 @@ export const getQuickResponse = (question) => {
 
   // Email requests
   if (lowerQuestion.includes("email") || lowerQuestion.includes("mail")) {
-    return "You can reach me at: **ankitkumarpandey233@gmail.com**";
+    return "You can reach me at: **ankitpandey91153@gmail.com**";
   }
 
   // Contact info requests
   if (lowerQuestion.includes("contact") && !lowerQuestion.includes("how")) {
-    return "📧 **Email**: ankitkumarpandey233@gmail.com\n🐙 **GitHub**: https://github.com/Ankit91153\n💼 **LinkedIn**: https://linkedin.com/in/ankit-kumar-pandey-36b72220b\n🐦 **Twitter**: @Ankit91153";
+    return "📧 **Email**: ankitpandey91153@gmail.com\n🐙 **GitHub**: https://github.com/Ankit91153\n💼 **LinkedIn**: https://linkedin.com/in/ankit-kumar-pandey-36b72220b\n🐦 **Twitter**: @Ankit91153";
   }
 
   // Resume/CV requests

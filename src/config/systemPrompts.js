@@ -15,7 +15,7 @@ CORE INFO:
 - BCA from R.I.E.T Campus, Phagwara
 - GitHub: https://github.com/Ankit91153
 - LinkedIn: https://linkedin.com/in/ankit-kumar-pandey-36b72220b
-- Email: ankitkumarpandey233@gmail.com`;
+- Email: ankitpandey91153@gmail.com`;
 
 export const AI_CONFIG = {
   model: "openai/gpt-oss-20b",
